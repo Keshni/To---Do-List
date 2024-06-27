@@ -7,8 +7,8 @@ This application is a simple To-Do List built using Tkinter and Python.
 
 ## Instructions
 Install the required packages if not already installed:
-  Python 3.x
-  Tkinter (usually included with Python installation)
+  - Python 3.x
+  - Tkinter (usually included with Python installation)
   
 Download all the files in the repo and run the proovided Python script (main.py) to start the application.
 
