@@ -10,7 +10,7 @@ Install the required packages if not already installed:
   - Python 3.x
   - Tkinter (usually included with Python installation)
   
-Download all the files in the repo and run the proovided Python script (main.py) to start the application.
+Download all the files in the repo and run the provided Python script (main.py) to start the application.
 
 ## Usage
 After launching the application, enter tasks in the provided entry field and click ADD. Tasks will appear in the listbox. To delete a task, select it from the list and click the Delete button.
