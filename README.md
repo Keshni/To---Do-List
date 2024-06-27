@@ -5,7 +5,7 @@ This application is a simple To-Do List built using Tkinter and Python.
 - The application utilizes a text file named tasklist.txt to store tasks. Upon the first run of the application, if tasklist.txt does not exist, it will be automatically created. Tasks are saved to this file whenever new tasks are added or existing tasks are deleted. This ensures that your tasks are retained even after closing the application.
 - Graphical User Interface (GUI) using Tkinter.
 
-  ## Instructions
+## Instructions
 Install the required packages if not already installed:
   Python 3.x
   Tkinter (usually included with Python installation)
